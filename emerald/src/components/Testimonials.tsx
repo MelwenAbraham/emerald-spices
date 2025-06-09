@@ -1,6 +1,9 @@
 import { Autoplay, Pagination } from "swiper/modules";
 import { Swiper, SwiperSlide } from "swiper/react";
 
+import "swiper/css";
+import "swiper/css/pagination";
+
 const Testimonials = () => {
   return (
     <section className="relative py-20 bg-black">
@@ -11,10 +14,12 @@ const Testimonials = () => {
         {/* <div className="max-w-5xl mx-auto"> */}
         <Swiper
           modules={[Pagination, Autoplay]}
-          pagination={{ clickable: true }}
-          autoplay={{ delay: 5000 }}
+          autoplay={{ delay: 1, disableOnInteraction: false }}
+          speed={7000}
+          freeMode={true}
+          grabCursor={true}
           loop={true}
-          spaceBetween={30}
+          spaceBetween={50}
           slidesPerView={1}
           className="testimonial-swiper"
         >

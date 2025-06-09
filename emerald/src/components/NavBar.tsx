@@ -37,7 +37,7 @@ const NavBar = () => {
           <div className="flex items-center">
             <a
               href="#"
-              className="text-3xl font-serif tracking-wider text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-emerald-600 hover:from-emerald-300 hover:to-emerald-500 transition-all duration-300 cursor-pointer"
+              className="text-3xl font-['Pacifico'] tracking-wider text-transparent bg-clip-text bg-gradient-to-r from-emerald-400 to-emerald-600 hover:from-emerald-300 hover:to-emerald-500 transition-all duration-300 cursor-pointer"
               style={{ textShadow: "0 0 20px rgba(16, 185, 129, 0.2)" }}
             >
               Emerald Spices

@@ -93,16 +93,16 @@ const Footer = () => {
               <li className="flex items-start">
                 <i className="fas fa-map-marker-alt text-emerald-500 mt-1 mr-3"></i>
                 <span className="text-gray-300">
-                  123 Spice Avenue, New York, NY 10001
+                  Santhanpara,Munnar, Idukki, Kerala, India
                 </span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-envelope text-emerald-500 mt-1 mr-3"></i>
-                <span className="text-gray-300">info@emeraldspices.com</span>
+                <span className="text-gray-300">tckeralam@.com</span>
               </li>
               <li className="flex items-start">
                 <i className="fas fa-phone text-emerald-500 mt-1 mr-3"></i>
-                <span className="text-gray-300">+1 (212) 555-7890</span>
+                <span className="text-gray-300">+91 9446350819</span>
               </li>
             </ul>
           </div>
