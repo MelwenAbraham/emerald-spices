@@ -18,14 +18,17 @@ const Cardamom = () => {
               Emerald Cardamom
             </h2>
             <p className="text-lg mb-8 leading-relaxed">
-              Discover the exquisite aroma and flavor of our premium Emerald
-              Cardamom. Handpicked from the lush highlands of Guatemala, each
-              pod encapsulates centuries of tradition and unparalleled quality.
+              Discover the exquisite aroma and vibrant flavor of our Emerald
+              Cardamom, cultivated in the emerald-green highlands of Idukki,
+              Kerala. Grown under ideal tropical conditions and handpicked at
+              peak maturity, each pod captures the essence of purity and
+              heritage.
             </p>
             <p className="text-lg mb-10 leading-relaxed">
-              With its distinctive sweet and spicy notes, our Emerald Cardamom
-              elevates both sweet and savory dishes to new heights of culinary
-              excellence. A true treasure for discerning palates.
+              Bursting with sweet, floral, and gently spicy notes, this prized
+              spice transforms everyday recipes into extraordinary culinary
+              creations. Emerald Cardamom is more than an ingredient—it’s a
+              legacy of craftsmanship, reserved for those who seek the finest.
             </p>
             <button className="px-8 py-3 bg-transparent border-2 border-emerald-500 text-emerald-500 hover:bg-emerald-500 hover:text-black transition-all duration-300 font-light tracking-wider !rounded-button whitespace-nowrap cursor-pointer group">
               Learn More

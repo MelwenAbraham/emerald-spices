@@ -25,15 +25,16 @@ const Pepper = () => {
               Onyx Pepper
             </h2>
             <p className="text-lg mb-8 leading-relaxed">
-              Our Onyx Pepper represents the pinnacle of pepper cultivation.
-              Sourced from the volcanic soils of Madagascar, these exceptional
-              peppercorns deliver an intense, complex flavor profile unlike any
-              other.
+              Grown in the misty highlands of Munnar, Kerala, our Onyx Pepper is
+              the epitome of premium pepper cultivation. Nurtured in
+              mineral-rich soil and cool mountain air, each peppercorn develops
+              a bold, intricate flavor that elevates any dish it touches.
             </p>
             <p className="text-lg mb-10 leading-relaxed">
-              With notes of citrus, wood, and a lingering heat, Onyx Pepper
-              transforms ordinary dishes into extraordinary culinary
-              experiences. Each grain is a testament to nature's perfection.
+              With striking notes of citrus, aged wood, and a warm, lingering
+              heat, Onyx Pepper isn’t just a spice—it’s an experience.
+              Hand-harvested and sun-dried with care, every grain speaks of
+              purity, richness, and the untamed beauty of Munnar.
             </p>
             <button className="px-8 py-3 bg-transparent border-2 border-emerald-500 text-emerald-500 hover:bg-emerald-500 hover:text-black transition-all duration-300 font-light tracking-wider !rounded-button whitespace-nowrap cursor-pointer group">
               Learn More
