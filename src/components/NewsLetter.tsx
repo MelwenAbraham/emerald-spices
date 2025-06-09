@@ -1,5 +1,3 @@
-import React from "react";
-
 const NewsLetter = () => {
   return (
     <section className="py-20 bg-gradient-to-b from-black to-emerald-900/30">
