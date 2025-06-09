@@ -1,4 +1,5 @@
 import { useRef } from "react";
+import cardamomImg from "../assets/cardamom-new.png";
 
 const Cardamom = () => {
   const cardamomRef = useRef<HTMLDivElement>(null);
@@ -33,7 +34,7 @@ const Cardamom = () => {
           </div>
           <div className="order-1 md:order-2 overflow-hidden rounded-lg shadow-2xl transform hover:scale-105 transition-transform duration-700">
             <img
-              src="https://readdy.ai/api/search-image?query=Ultra%20premium%20cardamom%20pods%20on%20black%20marble%20surface%20with%20emerald%20green%20accent%20lighting%2C%20luxury%20product%20photography%2C%20macro%20detail%20showing%20texture%20and%20quality%2C%20cinematic%20mood%20with%20subtle%20gold%20reflections%2C%20professional%20studio%20lighting%2C%20dark%20sophisticated%20background&width=700&height=700&seq=cardamom-1&orientation=squarish"
+              src={cardamomImg}
               alt="Premium Emerald Cardamom"
               className="w-full h-full object-cover object-top"
             />

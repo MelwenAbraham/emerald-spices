@@ -1,4 +1,5 @@
 import { useRef } from "react";
+import pepperImg from "../assets/pepper-new.png";
 
 const Pepper = () => {
   const pepperRef = useRef<HTMLDivElement>(null);
@@ -14,7 +15,7 @@ const Pepper = () => {
         <div className="grid grid-cols-1 md:grid-cols-2 gap-12 items-center">
           <div className="overflow-hidden rounded-lg shadow-2xl transform hover:scale-105 transition-transform duration-700">
             <img
-              src="https://readdy.ai/api/search-image?query=Luxury%20black%20peppercorns%20with%20dramatic%20lighting%20against%20dark%20background%2C%20ultra%20high-end%20product%20photography%2C%20cinematic%20mood%20with%20subtle%20smoke%20effect%2C%20macro%20detail%20showing%20texture%20and%20quality%2C%20professional%20studio%20lighting%20with%20gold%20accents%2C%20sophisticated%20black%20marble%20surface&width=700&height=700&seq=pepper-1&orientation=squarish"
+              src={pepperImg}
               alt="Premium Onyx Pepper"
               className="w-full h-full object-cover object-top"
             />
